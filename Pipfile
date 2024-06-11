@@ -11,6 +11,8 @@ python-dotenv = "*"
 ollama = "*"
 langchain-community = "*"
 langchainhub = "*"
+pydantic = "*"
+flask = "*"
 
 [dev-packages]
 
